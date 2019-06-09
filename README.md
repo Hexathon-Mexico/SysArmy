@@ -1,2 +1,0 @@
-# SysArmy
-Hexaware Proposal
